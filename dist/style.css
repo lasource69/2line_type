@@ -3,7 +3,7 @@ body {
   color: white;
   margin: 0;
   font-family: "Roboto Mono", monospace;
-  font-size: 10vh; /* Set font size to 3% of viewport height */
+  font-size: 5vh; /* Set font size to 3% of viewport height */
 }
 
 .container {
