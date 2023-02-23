@@ -3,6 +3,19 @@ body {
   color: white;
   margin: 0;
   font-family: "Roboto Mono", monospace;
+  font-size: 32px;
+}
+
+@media (max-width: 768px) {
+  body {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 480px) {
+  body {
+    font-size: 12px;
+  }
 }
 
 .container {
